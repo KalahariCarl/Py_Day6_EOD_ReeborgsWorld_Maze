@@ -1,6 +1,8 @@
 # main.py - my own code
 # main_coursefile.py - answer as given by the udemy course
 
+# goes into an endless loop on certain scenarios! main_coursefile.py has the correct solution to the problem
+
 def turn_right():
     turn_left()
     turn_left()
